@@ -13,7 +13,7 @@ Sistem internal rumah sakit daerah untuk absensi pegawai, laporan kinerja harian
 
 | Lapis | Teknologi |
 |---|---|
-| Backend | Laravel 11 (PHP 8.2), 41 model, 40 migrasi, 27 controller, 407 route API |
+| Backend | Laravel 11 (PHP 8.2), REST API |
 | Frontend | Vue 3, Pinia, Vite |
 | Mobile | Ionic Vue + Capacitor (Android) |
 | Layanan citra | FastAPI + YOLOv8 |
